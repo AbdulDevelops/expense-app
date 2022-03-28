@@ -1,0 +1,22 @@
+.Expenses-filter{
+ padding-left: 1px;
+ color: azure;
+ font-size: x-large;
+}
+.Expenses-filter select {
+   padding-top: 1rem;
+   padding-left: 1.75rem;
+   padding-right: 14px;
+   padding-bottom: 10px;
+   gap: 50px;
+   font-size:xx-large;
+    margin-left: 24rem;
+    border-radius: 1rem;
+    background-color: #a892ee
+}
+ .Expenses-filter label{
+    padding-left: 10px;
+    margin-left: 5px;
+    font-size:xx-large;
+    padding-left: 14px;
+}
