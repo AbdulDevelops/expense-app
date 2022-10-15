@@ -17,11 +17,11 @@
     font-weight:bold;
   }no
   
-  .expense-date__year {
+  .expense-date_year {
     font-size: 1.75rem;
   }
   
-  .expense-date__day {
+  .expense-date_day {
     font-size: 1.5rem;
     font-weight: bold;
   }

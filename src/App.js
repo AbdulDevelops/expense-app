@@ -3,7 +3,7 @@ import './App.css';
 import ExpenseItem from './components/Expenses/ExpenseItem';
 import Expenses from './components/Expenses/Expenses';
 import React from 'react';
-import Card from './components/UI/Card';
+//import Card from './components/UI/Card';
 import NewExpense from './components/NewExpenses/NewExpense';
 import { useState } from 'react';
 

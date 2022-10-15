@@ -10,7 +10,7 @@ const ExpenseDate = (props) =>
     // const expenseTitle = 'Car Insurance';
     // const expenseAmount = 264.67;
   
-    return(
+    return (
 
         
         <div className ="expense-date"> 
